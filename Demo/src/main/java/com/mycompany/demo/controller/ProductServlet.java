@@ -8,9 +8,9 @@ import com.mycompany.demo.model.Product;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import javax.servlet.*;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.*;
+import jakarta.servlet.*;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.*;
 
 /**
  *
